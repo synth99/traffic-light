@@ -1,3 +1,4 @@
+// pin mode value
 int redled =10; // initialize digital pin 10.
 int yellowled =7; // initialize digital pin 7.
 int greenled =4; // initialize digital pin 4.
