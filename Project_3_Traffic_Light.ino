@@ -8,7 +8,7 @@ pinMode(redled, OUTPUT);// set the pin with red LED as “output”
 pinMode(yellowled, OUTPUT); // set the pin with yellow LED as “output”
 pinMode(greenled, OUTPUT); // set the pin with blue LED as “output”
 }
-void loop()
+void loop() // loop function 
 {
 digitalWrite(greenled, HIGH);//// turn on blue LED
 delay(2000);// wait 2 seconds
